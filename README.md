@@ -1,2 +1,7 @@
-# firstrepo
-This is my first ever repository.
+# Practice
+
+this is the first repository
+
+## Initial commit
+
+readme file
